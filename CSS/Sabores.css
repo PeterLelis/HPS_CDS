@@ -1,0 +1,25 @@
+/*Sabores.css Hecho por Peter Lelis*/
+
+body{
+    background-color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 80px;
+}
+
+img{
+    text-align: center;
+    width: 800px;
+    height: 450px;
+    float: left;
+    margin: 2%;
+}
+
+p{
+    text-align: justify;
+    padding-right: 2%;
+}
